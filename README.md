@@ -31,7 +31,7 @@ The GST Assistant offers a suite of innovative features to streamline GST proces
 Explore the intuitive interface of the GST Assistant:
 
 1. **GST Updates & Notifications**  
-   ![GST Updates](1.png)  
+   ![GST Updates](/project/1.png)  
    *Displays critical deadlines and the latest GST news.*
 
 2. **GST Analytics Dashboard**  
