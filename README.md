@@ -31,7 +31,7 @@ The GST Assistant offers a suite of innovative features to streamline GST proces
 Explore the intuitive interface of the GST Assistant:
 
 1. **GST Updates & Notifications**  
-   ![GST Updates]([url=https://ibb.co/n8L7zFQX][img]https://i.ibb.co/HpHtnjGc/Screenshot-2025-02-26-044316.png[/img][/url])  
+   ![GST Updates](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-02-26%20044316.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-02-25T23%3A47%3A57.038Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fc922725a70614bc8%2FScreenshot%25202025-02-26%2520044316.png%3FExpires%3D1835135277%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DWBgNuDctCLGZqCWTWJLSFtoQASH090vFc-mp7pFDNBYSxXVzLDkw9crE2rLcFDUZOy7eLL9~j9iPEHXVaHM6ab3za3ptwl1LcavQbkOZivsSaJ1uKvXhHqnxgDZ5fxqvKJkm2jqqcass73NYRqT3WO~YHzXgysE8v~Hc0QshTMLpYUuxopw8ZkIk4LryNewIm9N0zaHgeOOJkiIRKhig8RCVwGewkZ6nkYXW--WET3g7S1VlLsRvKVNkeEg1B2Kx1hE8YBkwv-ew5TuUoaLcltfYEDDljiTXWgr2baOQnFtZ8yK~4uYtS1eMThCnLMQZ91P970inS61ttjS7tHXYXA__%22%7D)  
    *Displays critical deadlines and the latest GST news.*
 
 2. **GST Analytics Dashboard**  
