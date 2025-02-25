@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tax Assistant - Automate Your Tax Filing</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="../assets/logo.png" alt="Tax Assistant Logo" class="logo-img">
+        </div>
+        <h1>Tax Assistant</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#upload">Upload Invoice</a></li>
+                <li><a href="#reports">Reports</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to Tax Assistant</h2>
+            <p>Automate your tax filing, simplify calculations, identify deductions, and minimize errors with our advanced tool.</p>
+        </section>
+
+        <section id="upload">
+            <h2>Upload Invoice</h2>
+            <input type="file" id="invoiceUpload" accept=".pdf" onchange="handleFileUpload(event)">
+            <div id="uploadStatus"></div>
+            <button onclick="processInvoice()">Process Invoice</button>
+            <div id="invoiceData"></div>
+        </section>
+
+        <section id="reports">
+            <h2>Tax Reports</h2>
+            <div id="downloadLinks"></div>
+            <button onclick="downloadReport('pdf')">Download PDF Report</button>
+            <button onclick="downloadReport('xlsx')">Download Excel Report</button>
+            <button onclick="downloadReport('json')">Download JSON Report</button>
+            <div id="reportStatus"></div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: support@taxassistant.com | Phone: +1-800-123-4567</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Tax Assistant. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

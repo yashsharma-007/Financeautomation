@@ -1,0 +1,12 @@
+pytesseract
+Pillow
+re
+json
+pandas
+datetime
+schedule
+time
+os
+pdf2image
+reportlab
+requests
