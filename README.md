@@ -30,19 +30,23 @@ The GST Assistant offers a suite of innovative features to streamline GST proces
 ## Screenshots
 Explore the intuitive interface of the GST Assistant:
 
-1. **GST Updates & Notifications**  
+1. **GST Updates & Notifications**
+2. 
    ![GST Updates](/project/4.png)  
    *Displays critical deadlines and the latest GST news.*
 
-2. **GST Analytics Dashboard**  
+3. **GST Analytics Dashboard**
+4. 
    ![Analytics Dashboard](/project/1.png)  
    *Shows real-time financial metrics.*
 
-3. **Tax Estimator & Invoice Upload**  
+5. **Tax Estimator & Invoice Upload**
+6. 
    ![Tax Estimator](/project/1.png)  
    *Features a tax estimator and intuitive invoice upload.*
 
-4. **ITC Reconciliation & Compliance Checker**  
+7. **ITC Reconciliation & Compliance Checker**
+8. 
    ![Compliance Checker](/project/3.png)  
    *Highlights reconciled invoices and compliance alerts.*
 
