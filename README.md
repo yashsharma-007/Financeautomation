@@ -35,15 +35,15 @@ Explore the intuitive interface of the GST Assistant:
    *Displays critical deadlines and the latest GST news.*
 
 2. **GST Analytics Dashboard**  
-   ![Analytics Dashboard](path/to/your/image2.png)  
+   ![Analytics Dashboard](/project/2.png)  
    *Shows real-time financial metrics.*
 
 3. **Tax Estimator & Invoice Upload**  
-   ![Tax Estimator](path/to/your/image3.png)  
+   ![Tax Estimator](/project/3.png)  
    *Features a tax estimator and intuitive invoice upload.*
 
 4. **ITC Reconciliation & Compliance Checker**  
-   ![Compliance Checker](path/to/your/image4.png)  
+   ![Compliance Checker](/project/4.png)  
    *Highlights reconciled invoices and compliance alerts.*
 
 ## Outputs
