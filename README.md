@@ -1,7 +1,7 @@
 # GST Assistant: Intelligent Tax Management Platform
 
 ## Overview
-The GST Assistant is a cutting-edge, user-friendly web application designed to revolutionize Goods and Services Tax (GST) management for businesses of all sizes. By leveraging modern technologies, it simplifies tax compliance, automates invoice reconciliation, and provides real-time analytics to ensure businesses stay ahead of deadlines and regulations. This project is a game-changer for small and medium enterprises, reducing manual effort and minimizing compliance risks.
+The GST Assistant is a cutting-edge, user-friendly web application designed to revolutionize Goods and Services Tax (GST) management for businesses of all sizes. By leveraging modern technologies, it simplifies tax compliance, automates invoice reconciliation, and provides real-time analytics to ensure businesses stay ahead of deadlines and regulations. This project is a game-changer for small and medium enterprises, reducing manual effort and minimizing compliance risks. We can easily upload pdf vs as images and get gst data in json format and then upload directly in gst portal.
 
 ## Table of Contents
 - [Features](#features)
@@ -168,6 +168,7 @@ Access the app at http://localhost:5173.
 - Log in and navigate through Dashboard, Returns, Calculator, and Settings.
 - Upload invoices, reconcile them, and file returns.
 - Monitor compliance and apply tax-saving suggestions.
+- Directky extract data from images or pdf to json and excel files to prevent manual filling of data.
 
 ## Technologies Used
 - **Frontend**: React.js, Vite, Tailwind CSS
