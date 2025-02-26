@@ -64,7 +64,7 @@ The GST Assistant generates actionable outputs in Excel and JSON formats.
 ![Compliance Checker](/project/7.png)  
 [Download Excel Output](path/to/excel-file.xlsx)
 
-### JSON Output Sample
+### JSON Output Sample(directly uploadble on GST portal)
 ```json
 {
   "gstin": "YOUR_GSTIN_HERE",
