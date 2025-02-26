@@ -7,11 +7,11 @@ Key features include an easy drag-and-drop interface for uploading invoices (PDF
 
 ## 🔹 Why GST Assistant?
 
-✅ Automated Invoice Processing – Extract data directly from images and PDFs.
-✅ Real-Time Analytics – Visualize tax liability, Input Tax Credit (ITC), and refunds instantly.
-✅ Seamless GST Filing – Generate GSTR-1, GSTR-3B, and JSON files in the required format.
-✅ Proactive Compliance Monitoring – Detect errors before filing and prevent penalties.
-✅ Tax Optimization Suggestions – Smart recommendations to maximize tax savings.
+- ✅ Automated Invoice Processing – Extract data directly from images and PDFs.
+- ✅ Real-Time Analytics – Visualize tax liability, Input Tax Credit (ITC), and refunds instantly.
+- ✅ Seamless GST Filing – Generate GSTR-1, GSTR-3B, and JSON files in the required format.
+- ✅ Proactive Compliance Monitoring – Detect errors before filing and prevent penalties.
+- ✅ Tax Optimization Suggestions – Smart recommendations to maximize tax savings.
 
 This solution is perfect for entrepreneurs, startups, freelancers, accountants, and small businesses looking for a smart, reliable, and automated GST filing assistant.
 
