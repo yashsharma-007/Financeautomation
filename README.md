@@ -50,14 +50,14 @@ Explore the intuitive interface of the GST Assistant:
    ![Compliance Checker](/project/3.png)  
    *Highlights reconciled invoices and compliance alerts.*
 
-## Inputs:
+## Sample Inputs:
 ![Compliance Checker](/project/5.png) 
 
 
 ![Compliance Checker](/project/6.png) 
 
 
-## Outputs
+## Sample Outputs
 The GST Assistant generates actionable outputs in Excel and JSON formats.
 
 ### Excel Output Sample
