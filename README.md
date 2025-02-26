@@ -65,22 +65,80 @@ The GST Assistant generates actionable outputs in Excel and JSON formats.
 ### JSON Output Sample
 ```json
 {
-  "invoices": [
+  "gstin": "YOUR_GSTIN_HERE",
+  "fp": "022025",
+  "b2b": [
     {
-      "invoice_id": "INV-2024-001",
-      "supplier": "ABC Enterprises",
-      "amount": 25000,
-      "gst_amount": 4500,
-      "status": "mismatched",
-      "date": "2025-02-26"
+      "inv": [
+        {
+          "inum": "80XBoEZ0-8BP000",
+          "idt": "",
+          "val": 50500.0,
+          "pos": "07",
+          "rchrg": "N",
+          "etin": "",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 42796.61,
+                "iamt": 7703.39,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "inum": "80XBoEZ0-8BP000",
+          "idt": "26-02-2025",
+          "val": 15953.44,
+          "pos": "07",
+          "rchrg": "N",
+          "etin": "",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 9.0,
+                "txval": 6871.943310362762,
+                "iamt": 0.0,
+                "camt": 434.52,
+                "samt": 434.52,
+                "csamt": 0.0
+              }
+            },
+            {
+              "num": 2,
+              "itm_det": {
+                "rt": 2.5,
+                "txval": 3862.028344818619,
+                "iamt": 0.0,
+                "camt": 244.2,
+                "samt": 244.2,
+                "csamt": 0.0
+              }
+            },
+            {
+              "num": 3,
+              "itm_det": {
+                "rt": 2.5,
+                "txval": 3862.028344818619,
+                "iamt": 0.0,
+                "camt": 244.2,
+                "samt": 244.2,
+                "csamt": 0.0
+              }
+            }
+          ]
+        }
+      ]
     }
-  ],
-  "totals": {
-    "total_tax_liability": 125000,
-    "input_tax_credit": 85000,
-    "pending_refunds": 15000
-  },
-  "compliance_status": "Critical issues detected"
+  ]
 }
 ```
 [Download JSON Output](path/to/json-file.json)
