@@ -54,12 +54,7 @@ Explore the intuitive interface of the GST Assistant:
 The GST Assistant generates actionable outputs in Excel and JSON formats.
 
 ### Excel Output Sample
-```
-| Invoice ID  | Supplier       | Amount (₹) | GST Amount (₹) | Status    | Date       |
-|------------|---------------|------------|---------------|----------|------------|
-| INV-2024-001 | ABC Enterprises | 25,000    | 4,500         | Mismatched | 26/02/2025 |
-| INV-2024-015 | XYZ Trading    | 18,000    | 3,240         | Resolved  | 26/02/2025 |
-```
+![Compliance Checker](/project/5.png)  
 [Download Excel Output](path/to/excel-file.xlsx)
 
 ### JSON Output Sample
