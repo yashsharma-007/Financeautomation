@@ -54,7 +54,7 @@ Explore the intuitive interface of the GST Assistant:
 The GST Assistant generates actionable outputs in Excel and JSON formats.
 
 ### Excel Output Sample
-![Compliance Checker](/project/5.png)  
+![Compliance Checker](/project/7.png)  
 [Download Excel Output](path/to/excel-file.xlsx)
 
 ### JSON Output Sample
