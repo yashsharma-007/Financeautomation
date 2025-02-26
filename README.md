@@ -27,7 +27,7 @@ The GST Assistant offers a suite of innovative features to streamline GST proces
 - **Proactive Compliance Checker**: Detect and resolve compliance issues automatically, preventing penalties and ensuring regulatory adherence.
 - **Smart Tax Deduction Suggestions**: Leverage data-driven insights to optimize tax savings and improve financial efficiency.
 
-## Screenshots
+## Screenshots of webpage preview
 Explore the intuitive interface of the GST Assistant:
 
 1. **GST Updates & Notifications**
@@ -42,7 +42,7 @@ Explore the intuitive interface of the GST Assistant:
 
 3. **Tax Estimator & Invoice Upload**
    
-   ![Tax Estimator](/project/1.png)  
+   ![Tax Estimator](/project/2.png)  
    *Features a tax estimator and intuitive invoice upload.*
 
 4. **ITC Reconciliation & Compliance Checker**
