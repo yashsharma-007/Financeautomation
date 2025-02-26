@@ -160,7 +160,7 @@ The GST Assistant aims to redefine tax management with innovations such as:
 git clone https://github.com/your-username/gst-assistant.git
 cd gst-assistant
 npm install
-npm start
+npm run dev
 ```
 Access the app at http://localhost:5173.
 
